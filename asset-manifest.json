@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-drink-randomizer/static/css/main.4876bfdb.css",
+    "main.js": "/react-drink-randomizer/static/js/main.d14de231.js",
+    "static/js/453.ba5caa4f.chunk.js": "/react-drink-randomizer/static/js/453.ba5caa4f.chunk.js",
+    "static/media/barTop.webp": "/react-drink-randomizer/static/media/barTop.eb5b4a3405c787fcfc4b.webp",
+    "index.html": "/react-drink-randomizer/index.html",
+    "main.4876bfdb.css.map": "/react-drink-randomizer/static/css/main.4876bfdb.css.map",
+    "main.d14de231.js.map": "/react-drink-randomizer/static/js/main.d14de231.js.map",
+    "453.ba5caa4f.chunk.js.map": "/react-drink-randomizer/static/js/453.ba5caa4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4876bfdb.css",
+    "static/js/main.d14de231.js"
+  ]
+}
